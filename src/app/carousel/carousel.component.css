@@ -1,0 +1,12 @@
+img{
+    justify-content: center; /* Center horizontally */
+    align-items: center; 
+    display: flex;
+    position: relative;
+    top: auto;
+    
+    
+    left: auto;
+    width: 500px; /* Ensure image doesn't exceed container width */
+  height: auto;
+}

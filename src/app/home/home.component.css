@@ -1,0 +1,47 @@
+.home-intro-title[_ngcontent-ymm-c98] {
+    margin: 0 0 24px;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 54px;
+    text-shadow: 0 4px 4px rgba(0,0,0,.22);
+    text-align: center;
+}
+.body {
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    font-size: .875rem;
+    color: rgba(238, 233, 233, 0.87);
+    line-height: 1.5;
+    font-family: Roboto,Helvetica Neue,sans-serif;
+    background: url(https://evelynn-angular.ui-lib.com/home-bg.0f7f9f76897de19928ae.jpg) no-repeat 50%;
+    background-size: cover;
+    padding: 180px 0 0;
+    color: #fff;
+    overflow: visible;
+}
+.intro-product[_ngcontent-ymm-c98] {
+    justify-content: center; /* Center horizontally */
+    align-items: center; 
+    display: flex;
+    position: relative;
+    top: auto;
+    
+    
+    left: auto;
+    width: auto; /* Ensure image doesn't exceed container width */
+  height: auto;
+    /* margin-left: 25%; */
+
+    
+}
+img{
+    /* height: auto; */
+    width: 500px; 
+    margin-bottom: 10px;
+}
+
+.home-intro-text[_ngcontent-ymm-c98] {
+    max-width: 570px;
+    margin: 0 auto 24px;
+}
